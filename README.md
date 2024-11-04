@@ -25,9 +25,3 @@ A responsive and attractive shoes shopping app built with Flutter. This app prov
 - **Fast & Fluid**: Built with Flutter for high performance across platforms.
 
 ## Getting Started 🚀
-
-To try out this app on your local machine:
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/shop_app_flutter.git
