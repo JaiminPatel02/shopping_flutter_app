@@ -4,13 +4,14 @@ A responsive and attractive shoes shopping app built with Flutter. This app prov
 
 ---
 
-![App UI Screenshot](ui.png)  
-*This image showcases a key feature or main screen of the app.*
+<p align="center">
+  <img src="ui.png" alt="App UI Screenshot" width="45%" style="display:inline-block;"/>
+  <a href="https://github.com/JaiminPatel02/shopping_flutter_app/blob/main/ui.mp4" target="_blank">
+    <img src="https://img.icons8.com/ios/452/play-button-circled.png" alt="Play Video" width="10%" style="vertical-align: middle;"/>
+  </a>
+</p>
 
-<video src="./ui.mp4" autoplay muted loop controls width="100%">
-    Your browser does not support the video tag.
-</video>  
-*This video demonstrates the app's UI and functionality.*
+*Click the play icon to view the app demo video.*
 
 ---
 
