@@ -25,3 +25,8 @@ A responsive and attractive shoes shopping app built with Flutter. This app prov
 - **Fast & Fluid**: Built with Flutter for high performance across platforms.
 
 ## Getting Started 🚀
+
+
+## Youtube Vlogs
+
+This is my channel ( https://www.youtube.com/@j__p__14 ) 
